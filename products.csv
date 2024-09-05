@@ -1,0 +1,26 @@
+product_id,product_name,category,price
+1,SmartPhone,Electronics,92.62
+2,Laptop,Electronics,123.88
+3,Headphones,Electronics,362.56
+4,Smartwatch,Electronics,84.7
+5,Tablet,Electronics,93.82
+6,T-shirt,Clothing,254.82
+7,Jeans,Clothing,395.68
+8,Jacket,Clothing,169.15
+9,Sneakers,Clothing,37.86
+10,Hat,Clothing,261.62
+11,Lamp,Home Goods,247.03
+12,Sofa,Home Goods,383.1
+13,Coffee Table,Home Goods,145.68
+14,Curtains,Home Goods,204.45
+15,Dishware,Home Goods,230.73
+16,Novel,Books,428.54
+17,Biography,Books,275.88
+18,Cookbook,Books,225.06
+19,Textbook,Books,84.39
+20,Comics,Books,196.31
+21,Action Figure,Toys,112.21
+22,Puzzle,Toys,32.89
+23,Board Game,Toys,241.43
+24,Doll,Toys,60.0
+25,Lego Set,Toys,465.38

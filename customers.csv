@@ -1,0 +1,101 @@
+customer_id,customer_name,location,age,region
+1,Rachel Clark,West Danielleshire,21,Central
+2,Lori Brown,West Scotthaven,18,Central
+3,Renee Luna,Smithfurt,43,Central
+4,Kelly Hartman,Williamville,25,West
+5,Jennifer Rush,Leonardberg,19,West
+6,Meghan Garcia,New Matthewfort,60,North
+7,Andrea Williams,North Arthurmouth,26,Central
+8,Michelle Harper,Craigport,18,East
+9,Connie Mcpherson,Daniellefurt,23,Central
+10,Kathryn Murphy,Port Deborahtown,67,East
+11,Mercedes Cabrera,New Molly,23,Central
+12,Tommy Howard,Mccarthychester,18,North
+13,Lauren Parker,Jamesfurt,52,North
+14,Teresa Bishop,New Aliciaberg,68,East
+15,Timothy Rios,Josephfurt,24,North
+16,Angela Robinson,West Mitchellton,39,North
+17,Kyle Shepherd,South Jason,39,North
+18,Laura Boyd,Jonathanfort,41,East
+19,Monica Porter,East Jon,59,Central
+20,Devon Swanson,West Jennifer,68,East
+21,Garrett Thompson,Fergusonside,24,Central
+22,Nathaniel Baird,Matthewside,51,South
+23,Melissa Castro,Lindafurt,62,North
+24,Michael Hale,West Katherine,33,North
+25,Mary Miller,East Brandon,31,West
+26,Robert Garcia,Collierburgh,33,West
+27,Dylan Smith,Batesside,65,Central
+28,Tamara Wilson,South Aliciaview,51,Central
+29,Derrick Dixon,Brookeport,25,Central
+30,Mrs. Jamie Carter,Melanieberg,36,Central
+31,Jennifer Porter,New Brandon,18,North
+32,Mary Hodges,Port Michael,46,East
+33,Rebecca Webb,North William,30,West
+34,James Davis,Lake Marybury,70,East
+35,Frank Walker,Stevenhaven,19,West
+36,Courtney Taylor,Kimland,22,West
+37,Blake Martinez,Freemanfurt,68,East
+38,Matthew Wallace,Hawkinsbury,64,South
+39,Shaun Crawford,Lake Elizabethchester,23,South
+40,Amy Russo,Williamsonchester,50,South
+41,Susan Pittman,Taraburgh,29,East
+42,Jesse Mclean,West Matthewside,54,West
+43,John Long,Middletonburgh,22,Central
+44,Kendra Garcia,North Emilyhaven,64,North
+45,Carolyn Larson,North Kimberlyborough,26,North
+46,Brenda Williams,North Brittany,55,East
+47,Dean James,West Tammy,62,Central
+48,Joseph Campos,East Brenda,70,North
+49,Heather Small,Wardport,55,East
+50,Julie Brown,North Alexandria,52,West
+51,Joshua Rosario,North Stephenshire,19,West
+52,Keith Johnson,Deckerton,62,North
+53,Brian Garcia,Lake Kathrynshire,58,East
+54,Craig Thompson,East Ray,48,South
+55,Tiffany Hart,Lake Josephberg,18,North
+56,Christopher Henry,Port Ashley,43,South
+57,Cheryl Oconnell,Sheltonville,65,West
+58,Victoria White,Jasonstad,63,East
+59,Nicole Schultz,Chadstad,69,West
+60,James Boyd,New Daniel,65,Central
+61,Steven Shaw,North Kurt,51,East
+62,Kimberly Mccall,Taylorside,29,East
+63,Mrs. Tabitha Christian,North John,50,West
+64,John Wilson,Billyhaven,43,North
+65,Debbie Smith,West Michaelchester,37,East
+66,Andrea Rodriguez,Lake Lauren,23,West
+67,David Smith,Port Michelestad,66,Central
+68,Stephanie Brown,Berryhaven,41,West
+69,Kerry Ford,Thomasville,20,East
+70,Kenneth Reed,Michaelside,38,Central
+71,Joe Rasmussen,Drakestad,60,West
+72,William Santana,New Robertton,29,West
+73,Christina Rangel,Susanville,49,South
+74,Shelby Anderson,Sawyerborough,23,North
+75,Sierra Morton,Brandyborough,27,West
+76,Kerry Smith,Brucemouth,48,West
+77,David Cobb DDS,Port Tinashire,20,Central
+78,Jeanette Diaz,Mooreburgh,20,North
+79,Paul Rose,Isaiahshire,66,North
+80,Elizabeth Bradford,New Michelle,49,East
+81,Teresa West,Bryanhaven,63,Central
+82,John Simmons,Oconnellfurt,19,Central
+83,Joshua Cole,Davisberg,21,South
+84,Jose Gonzales,South Julie,64,Central
+85,Christopher Chen,New Jeremy,53,West
+86,Gloria Jones,Livingstonmouth,68,Central
+87,Andrew Collins,South Alecchester,29,South
+88,Mitchell Bartlett MD,Port Deborahbury,50,East
+89,Tanya Lopez,Shafferland,61,South
+90,Tammy Walker,Nunezstad,39,South
+91,Shannon Brown,Brandtbury,66,North
+92,David Park,South Curtis,49,South
+93,Melissa Norris,West Melissamouth,24,Central
+94,Christina Banks,Charlesshire,20,North
+95,George Matthews,West Billy,30,North
+96,Kristy Bennett,West Katelynberg,42,South
+97,Jessica Meyers,Lindaberg,20,East
+98,Matthew Boyer,Alyssaview,68,North
+99,Philip Harris,Simmonsmouth,31,East
+100,Steven Gonzalez,Sototown,40,North
